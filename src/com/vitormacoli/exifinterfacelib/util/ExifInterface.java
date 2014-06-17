@@ -1,11 +1,10 @@
-package com.vitormacoli.exifinterfacelib;
+package com.vitormacoli.exifinterfacelib.util;
 
 import java.io.IOException;
 
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.vitormacoli.exifinterfacelib.util.ExifUtil;
 
 public class ExifInterface {
 
